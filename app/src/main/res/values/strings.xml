@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversa</string>
+    <string name="resposta_recebida">Resposta Recebida</string>
+    <string name="mensagem_recebida">Mensagem Recebida</string>
+    <string name="insira_mensagem">Insira Mensagem</string>
+    <string name="enviar">Enviar</string>
+    <string name="resposta">Resposta</string>
+</resources>
